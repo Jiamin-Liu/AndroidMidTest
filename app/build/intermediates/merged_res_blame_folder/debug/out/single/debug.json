@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-merged_res-5:\\drawable-hdpi_ic_menu_compose.png.flat",
+        "source": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-main-7:\\drawable-hdpi\\ic_menu_compose.png"
+    },
+    {
+        "merged": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-merged_res-5:\\layout_title_editor.xml.flat",
+        "source": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-main-7:\\layout\\title_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-merged_res-5:\\layout_note_editor.xml.flat",
+        "source": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-main-7:\\layout\\note_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-merged_res-5:\\drawable-hdpi_ic_menu_edit.png.flat",
+        "source": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-main-7:\\drawable-hdpi\\ic_menu_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-merged_res-5:\\layout_noteslist_item.xml.flat",
+        "source": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-main-7:\\layout\\noteslist_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-merged_res-5:\\menu_list_context_menu.xml.flat",
+        "source": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-main-7:\\menu\\list_context_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-merged_res-5:\\layout_output_text.xml.flat",
+        "source": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-main-7:\\layout\\output_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-merged_res-5:\\drawable_ic_menu_delete.png.flat",
+        "source": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-main-7:\\drawable\\ic_menu_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-merged_res-5:\\drawable-hdpi_ic_menu_revert.png.flat",
+        "source": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-main-7:\\drawable-hdpi\\ic_menu_revert.png"
+    },
+    {
+        "merged": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-merged_res-5:\\drawable_live_folder_notes.png.flat",
+        "source": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-main-7:\\drawable\\live_folder_notes.png"
+    },
+    {
+        "merged": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-merged_res-5:\\drawable_app_notes.png.flat",
+        "source": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-main-7:\\drawable\\app_notes.png"
+    },
+    {
+        "merged": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-merged_res-5:\\drawable_ic_menu_save.png.flat",
+        "source": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-main-7:\\drawable\\ic_menu_save.png"
+    },
+    {
+        "merged": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-merged_res-5:\\drawable-hdpi_app_notes.png.flat",
+        "source": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-main-7:\\drawable-hdpi\\app_notes.png"
+    },
+    {
+        "merged": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-merged_res-5:\\drawable-ldpi_app_notes.png.flat",
+        "source": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-main-7:\\drawable-ldpi\\app_notes.png"
+    },
+    {
+        "merged": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-merged_res-5:\\drawable_ic_menu_edit.png.flat",
+        "source": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-main-7:\\drawable\\ic_menu_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-merged_res-5:\\layout_note_search.xml.flat",
+        "source": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-main-7:\\layout\\note_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-merged_res-5:\\drawable_ic_menu_compose.png.flat",
+        "source": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-main-7:\\drawable\\ic_menu_compose.png"
+    },
+    {
+        "merged": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-merged_res-5:\\menu_editor_options_menu.xml.flat",
+        "source": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-main-7:\\menu\\editor_options_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-merged_res-5:\\drawable-hdpi_ic_menu_delete.png.flat",
+        "source": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-main-7:\\drawable-hdpi\\ic_menu_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-merged_res-5:\\menu_list_options_menu.xml.flat",
+        "source": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-main-7:\\menu\\list_options_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-merged_res-5:\\drawable-ldpi_live_folder_notes.png.flat",
+        "source": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-main-7:\\drawable-ldpi\\live_folder_notes.png"
+    },
+    {
+        "merged": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-merged_res-5:\\drawable-hdpi_live_folder_notes.png.flat",
+        "source": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-main-7:\\drawable-hdpi\\live_folder_notes.png"
+    },
+    {
+        "merged": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-merged_res-5:\\drawable_ic_menu_revert.png.flat",
+        "source": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-main-7:\\drawable\\ic_menu_revert.png"
+    },
+    {
+        "merged": "com.example.android.notepad.app-merged_res-5:/menu_list_options_menu.xml.flat",
+        "source": "com.example.android.notepad.app-main-7:/menu/list_options_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-merged_res-5:\\drawable-hdpi_ic_menu_save.png.flat",
+        "source": "C:\\Users\\刘佳民\\.gradle\\daemon\\7.4\\com.example.android.notepad.app-main-7:\\drawable-hdpi\\ic_menu_save.png"
+    }
+]
